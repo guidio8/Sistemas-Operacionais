@@ -1,0 +1,5 @@
+total 28
+-rwxrwxrwx 1 Luccas Luccas     0 Oct  9 21:56 arquivo.txt
+-rwxrwxrwx 1 Luccas Luccas  4033 Oct  9 15:08 shellsobackup.c
+-rwxrwxrwx 1 Luccas Luccas  4717 Oct  9 21:55 shellso.c
+-rwxrwxrwx 1 Luccas Luccas 13784 Oct  9 21:55 teste
